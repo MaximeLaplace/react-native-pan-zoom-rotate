@@ -1,0 +1,36 @@
+{
+  "name": "react-native-template-typescript",
+  "version": "6.12.10",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Emin Khateeb <emin@emin.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emin93/react-native-template-typescript/issues"
+  },
+  "homepage": "https://github.com/emin93/react-native-template-typescript#readme",
+  "dependencies": {
+    "@types/react": "~18.0.24",
+    "@types/react-native": "~0.70.6",
+    "expo": "^47.0.13",
+    "expo-updates": "~0.15.6",
+    "typescript": "^4.6.3"
+  }
+}

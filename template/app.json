@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "jsEngine": "hermes",
+    "name": "main",
+    "description": "small implementation of pan zoom rotation of an image using mathematics",
+    "slug": "pan-zoom-rotate",
+    "privacy": "public",
+    "platforms": ["ios"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "jsEngine": "hermes"
+    }
+  }
+}
