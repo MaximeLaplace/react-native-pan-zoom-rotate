@@ -4,6 +4,11 @@ While playing with react-native and image animation, I did not find any react-na
 
 Therefore I made it myself.
 
+## Technology used
+
+I used React Native and Expo to easily create a ready to use environment.
+No external packages used, only vanilla React Native and a little bit of mathematics.
+
 ## Inspiration
 
 The way this code behave is very similar to the way you can navigate through the plan from the Google Maps mobile application.<br>
