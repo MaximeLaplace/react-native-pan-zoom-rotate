@@ -4,6 +4,12 @@ While playing with react-native and image animation, I did not find any react-na
 
 Therefore I made it myself.
 
+## Demo
+
+<div align="center">
+<video src='https://user-images.githubusercontent.com/83889377/224850135-faab3d9f-2ada-4b17-9745-ba0f80cc21ca.mp4' />
+</div>
+
 ## Technology used
 
 I used React Native and Expo to easily create a ready to use environment.
